@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T02:01:17.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7lolFVPOEKgy7UyO09wU" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T02:02:52.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="62PBx0IJfW4HaSn5fi7m" version="21.6.1" type="github">
   <diagram name="Page-1" id="cC_zP4I_xgYjMpr82xzc">
-    <mxGraphModel dx="4200" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4100" pageHeight="3600" math="0" shadow="0">
+    <mxGraphModel dx="5250" dy="2915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4100" pageHeight="3600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,23 +13,8 @@
         <mxCell id="6hHZzvhaUNKSlwccIixW-2" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 110px;&quot;&gt;When Students Miss Class Due to a Medical Condition, Are they Engaging More with Science?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#275D38;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1840" y="820" width="2220" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="6hHZzvhaUNKSlwccIixW-5" value="DEMOGRAPHIC INFO" style="rounded=0;whiteSpace=wrap;html=1;fontSize=100;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="4730" y="570" width="1880" height="1420" as="geometry" />
-        </mxCell>
         <mxCell id="6hHZzvhaUNKSlwccIixW-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="180" y="1600" width="326.53" height="326.53" as="geometry" />
-        </mxCell>
-        <mxCell id="6hHZzvhaUNKSlwccIixW-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="6030" y="810" width="450" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="6hHZzvhaUNKSlwccIixW-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="6020" y="1340" width="450" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="6hHZzvhaUNKSlwccIixW-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="5490" y="1380" width="450" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="6hHZzvhaUNKSlwccIixW-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="4890" y="1370" width="450" height="450" as="geometry" />
         </mxCell>
         <mxCell id="6hHZzvhaUNKSlwccIixW-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/qr-code-sharp-128.png" parent="1" vertex="1">
           <mxGeometry x="180" y="3310" width="220" height="220" as="geometry" />
