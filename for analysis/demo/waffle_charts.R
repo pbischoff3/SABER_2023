@@ -9,6 +9,44 @@
 "#76A398"
 
 
+# medical experience waffle#### 
+library(waffle)
+
+# Define the data
+medical_experience <- c(
+  "No" = 167,
+  "Yes" = 223
+)
+
+# Calculate the counts based on a 10x10 grid
+counts <- round(medical_experience / sum(medical_experience) * 100)
+
+# Define colors for each category
+experience_colors <- c(
+  "No" = "#8BD8F0",
+  "Yes" = "#275d38"
+)
+
+# Create the waffle chart
+chart <- waffle(counts,
+                rows = 10,  # Number of rows in the chart
+                colors = experience_colors,  # Colors for each category
+                size = 0.7,  # Size of each waffle block
+                title = "Medical Experience") + # Chart title
+  theme(legend.position = "bottom")  # Move legend to the bottom of the graph
+
+chart
+
+# Set the file path
+file_path <- "Projects/2023_saber/plots/medical.png"
+width <- 600
+height <- 600
+
+# Save the chart as a PNG file with specified dimensions
+png(file_path, width = width, height = height, res = 96)
+print(chart)
+dev.off()
+
 # career waffle####
 library(waffle)
 
